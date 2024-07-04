@@ -46,4 +46,4 @@ dotenv for environment variable management
 
 **Run the Streamlit application:**
 
- streamli run groq-llama3.py
+ streamlit run groq-llama3.py

@@ -28,7 +28,7 @@ dotenv for environment variable management
 
   git clone https://github.com/manoranjan-30/Documents-Q&A-with-GORQ_LLAMA3.git
  
-  cd Documents-Q&A-with-GORQ_LLAMA3
+  cd Documents-QA-with-GORQ_LLAMA3
 
 **Install dependencies:**
 
